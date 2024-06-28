@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Weather" parent="Theme.AppCompat.Light">
+        <!-- Customize your light theme here. -->
+        <!-- Remove or comment out android:windowBackground to avoid overriding background_image -->
+        <!-- <item name="android:windowBackground">@android:color/white</item> -->
+    </style>
+
+    <style name="Theme.Weather" parent="Base.Theme.Weather" />
+
+</resources>
